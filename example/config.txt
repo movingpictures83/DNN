@@ -1,0 +1,2 @@
+Prefix plugins/DNN/example/
+Plugin DNN inputfile parameters.txt outputfile weights.csv

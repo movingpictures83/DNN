@@ -1,0 +1,10 @@
+x	plugins/DNN/example/trainX.csv
+y	plugins/DNN/example/trainY.csv
+iterations	500
+preiterations	300
+learningrate	0.5
+prelearningrate	0.1
+nodesX	500
+nodesY	300
+nodesZ	150
+minibatch	10
